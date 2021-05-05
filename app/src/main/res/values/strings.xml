@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Demo Simple Click</string>
+    <string name="enterAmount">Amount</string>
+    <string name="enterPax">Num of Pax</string>
+    <string name="textDisplay">Display what user enters</string>
+    <string name="splitButton">Split</string>
+    <string name="resetButton">Reset</string>
+    <string name="rBtn1">Paynow</string>
+    <string name="rBtn2">Cash</string>
+    <string name="tgBtn1">Enabled</string>
+    <string name="tgBtn2">Disabled</string>
+</resources>
